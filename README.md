@@ -23,7 +23,6 @@ Now go to discord, To your selected channel.
 #start passing your commands.
 Log out
 ```
-<br>
 <h3>Things you require to do:</h3>
 <p>1. Turn on developer's mode on discord<br>
 2. Make a discord application, Turn it into a bot, Get the client Token from discord's developer portal.<br>
