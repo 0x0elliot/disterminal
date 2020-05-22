@@ -35,3 +35,6 @@ Log out
 <p>1. Turn on developer's mode on discord<br>
 2. Make a discord application, Turn it into a bot, Get the client Token from discord's developer portal.<br>
 3. Modify the script accordingly. I have marked the comments where you need to modify.</p>
+
+<br>
+<b>Disclaimer: I do not wish for my code to be assosiciated with any illegal reverse shell practices or anything else like that. I wrote this to make lives easier. Though it isn't that good to help just yet. I HEREBY DECLARE THAT I WOULD NOT BE HELD IN CHARGE FOR ANY ILLEGAL ACTIVITIES YOU COMMIT USING THIS OR A MODIFICATION OF THIS SO PLEASE BE RESPONSIBLE OUT THERE, HAVE FUN PEACE <3</b>
