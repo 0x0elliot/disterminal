@@ -1,7 +1,7 @@
 # disterminal
 <h1>Access your terminal using Discord.</h1>
 <p>Use Disterminal to access your terminal using discord. So no matter what device you're on,<br>
-You can easily access your command-line and do the work you want to. Disterminal is still in it's alpha phase<br>
+You can easily access your command-line and do the work you want to. Disterminal is still in it's pre-pre alpha phase<br>
 And I heavily encourage any community support towards it. I can't do this alone trust me guys. It's<br>
 a fun project but seriously, I code like shit, You can see how shitty I wrote this. I need help.
 </p>
