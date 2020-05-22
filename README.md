@@ -21,7 +21,7 @@ Now go to discord, To your selected channel.
 !username
 !password
 
-<start passing your statements :))>
+#start passing your commands.
 ```
 <br>
 <h3>Things you require to do:</h3>
