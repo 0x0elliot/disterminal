@@ -9,13 +9,16 @@ a fun project but seriously, I code like shit, You can see how shitty I wrote th
 <h2>I am open-sourcing my code and encouraging any help :)</h2>
 <br>
 <h2>Running Disterminal:</h2>
+<br>
 ```
 pip install discord.py
 git clone https://github.com/kiddocoder/disterminal
 cd disterminal
 python3 disterminal.py
 ```
+<br>
 Now go to discord, To your selected channel.
+<br>
 ```
 !username
 !password
