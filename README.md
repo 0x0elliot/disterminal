@@ -37,4 +37,8 @@ Log out
 3. Modify the script accordingly. I have marked the comments where you need to modify.</p>
 
 <br>
+<hr>
+<h4>It can be seen as a proof of concept:</h4>
+<p>While making this project, I had the best of intentions. I didn't want to hurt anyone and I just wanted a cool
+Way to control my computer. I did get it in a way but I realised that in the process I made a really easy reverse-shell<. Which anyone can set up under 5 minutes. I realized it myself a little late. So instead of shying away from it, We can see it as a proof of concept of the possibility of mallicious usage of discord's API. Literally all you need to do is to set the code up, Transfer it to any computer, Find a way to run it and you have got yourself a nice reverse-shell backdoor into that computer.</p>
 <b>Disclaimer: I do not wish for my code to be assosiciated with any illegal reverse shell practices or anything else like that. I wrote this to make lives easier. Though it isn't that good to help just yet. I HEREBY DECLARE THAT I WOULD NOT BE HELD IN CHARGE FOR ANY ILLEGAL ACTIVITIES YOU COMMIT USING THIS OR A MODIFICATION OF THIS SO PLEASE BE RESPONSIBLE OUT THERE, HAVE FUN PEACE <3</b>
