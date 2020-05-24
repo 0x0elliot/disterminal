@@ -20,7 +20,7 @@ python3 disterminal.py
 
 
 Now go to discord, To your selected channel.
-
+To log into that PC, Leave this program running on it. Then go to the selected discord channel and type:
 
 ```
 !username
