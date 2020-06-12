@@ -44,4 +44,4 @@ Way to control my computer. I did get it in a way but I realised that in the pro
 <br>
 <b>Pretty sure that it's against discord's TOS as well.</b>
 <br>
-<b>Disclaimer: I do not wish for my code to be assosiciated with any illegal practices or anything else like that. I wrote this to make lives easier. Though it isn't that good to help just yet. As I mentioned earlier, It hit me late how easily it can be used in a mallicious way when I had to set it up again. I HEREBY DECLARE THAT I WOULD NOT BE HELD IN CHARGE FOR ANY ILLEGAL ACTIVITIES YOU COMMIT USING THIS OR A MODIFICATION OF THIS SO PLEASE BE RESPONSIBLE OUT THERE, HAVE FUN, FOLLOW THE LAW PEACE <3</b>
+<b>Disclaimer: I do not wish for my code to be assosiciated with any illegal practices or anything else like that. I wrote this to make lives easier. Though it isn't that good to help just yet. As I mentioned earlier, It hit me late how easily it can be used in a mallicious way when I had to set it up again. I HEREBY DECLARE THAT I WOULD NOT BE HELD IN CHARGE FOR ANY ILLEGAL ACTIVITIES YOU COMMIT USING THIS OR A MODIFICATION OF THIS SO PLEASE BE RESPONSIBLE OUT THERE, HAVE FUN, FOLLOW THE LAW PEACE<3</b>
