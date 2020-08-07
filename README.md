@@ -13,7 +13,7 @@ a fun project but seriously, I code like shit, You can see how shitty I wrote th
 
 ```
 pip install discord.py
-git clone https://github.com/kiddocoder/disterminal
+git clone https://github.com/0x0elliot/disterminal
 cd disterminal
 python3 disterminal.py
 ```
